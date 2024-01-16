@@ -1,0 +1,3 @@
+﻿using UnitTestsCourse.Tests;
+
+WorldsDumbestFunctionTests.WorldsDumbestFunction_ReturnsPikachuIfZero_ReturnString();
